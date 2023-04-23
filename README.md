@@ -1,8 +1,5 @@
 ### Hi, I am Deyvid Diniz 😄
 
-### ⚙️ Languages and Tools
-
-
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
