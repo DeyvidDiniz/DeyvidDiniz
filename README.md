@@ -44,4 +44,4 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=DeyvidDiniz&show_icons=true&theme=merko&count_private=true&border_radius=10)
 
- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidDiniz&show_icons=true&theme=merko&border_radius=10) 
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&show_icons=true&theme=merko&border_radius=10) 
