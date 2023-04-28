@@ -1,6 +1,6 @@
 ### Hi, I am Deyvid Diniz 😄
 
-Front-end web development
+Front-end web developer
 
 <!-- Languages and Tools -->
 
